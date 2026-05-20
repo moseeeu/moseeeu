@@ -2,7 +2,7 @@
 <h3 align="left">I'm junior software development engineer</h3>
 <h3 align="left">If you want to connect with me, use this links⬇️</h3>
 <div style="display: flex; align-items: center; gap: 50px; margin: 0;">
-  <a href="https://t.me/moseeeu" target="_blank" style="text-decoration: none;">
+  <a href="https://t.me/sssorewa" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60">
   </a>
   <a href="https://linkedin.com/in/alexandr-kalyan-25809627b" target="_blank" style="text-decoration: none;">
