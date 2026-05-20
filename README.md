@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/alexandr-kalyan-25809627b" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="60">
   </a>
-  <a href="https://instagram.com/moseeeu" target="_blank" style="text-decoration: none;">
+  <a href="https://instagram.com/sssorewa" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60">
   </a>
 </div>
