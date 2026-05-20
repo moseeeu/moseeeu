@@ -1,5 +1,5 @@
-<h1 align="left">Hi everyone👋</h1>
-<h3 align="left">I'm trainee software development engineer</h3>
+<h1 align="left">Hi everyone</h1>
+<h3 align="left">I'm junior software development engineer</h3>
 <h3 align="left">If you want to connect with me, use this links⬇️</h3>
 <div style="display: flex; align-items: center; gap: 50px; margin: 0;">
   <a href="https://t.me/moseeeu" target="_blank" style="text-decoration: none;">
